@@ -91,7 +91,7 @@ while True:
      print(f"\n-----Player:{player['name']} | Level:{player['level']} | Xp:{player['xp']}/100-----")
      print("1. View List Tasks")
      print("2. Add New Tasks")
-     print("3. Completed Tasks")
+     print("3. To Complete Tasks")
      print("4. Exit")
      choice = input("Type an option 1--4:----> ").strip()
      if choice == "1":
